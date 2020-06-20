@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1592076827000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson",
+    "title": "USGS All Earthquakes, Past Month",
+    "status": 200,
+    "api": "1.9.1",
+    "count": 20251
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "28 km SSE of Mina, Nevada",
+        "time": 1592076530620,
+        "updated": 1592076743673,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748102",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748102.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 10,
+        "net": "nn",
+        "code": "00748102",
+        "ids": ",nn00748102,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 11,
+        "dmin": 0.058,
+        "rms": 0.06,
+        "gap": 114.57,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 0.8 - 28 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.931,
+          38.1755,
+          12.3
+        ]
+      },
+      "id": "nn00748102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.99,
+        "place": "8 km E of P?hala, Hawaii",
+        "time": 1592075944180,
+        "updated": 1592076150610,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv71555712",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv71555712.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 61,
+        "net": "hv",
+        "code": "71555712",
+        "ids": ",hv71555712,",
+        "sources": ",hv,",
+        "types": ",origin,phase-data,",
+        "nst": 29,
+        "dmin": 0.03354,
+        "rms": 0.12,
+        "gap": 170,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 2.0 - 8 km E of P?hala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.3934937,
+          19.2040005,
+          31.5
+        ]
+      },
+      "id": "hv71555712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "41 km ESE of Mina, Nevada",
+        "time": 1592075933100,
+        "updated": 1592076607327,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748099",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748099.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00748099",
+        "ids": ",nn00748099,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 19,
+        "dmin": 0.051,
+        "rms": 0.15,
+        "gap": 60.5,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 41 km ESE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6852,
+          38.2305,
+          3.2
+        ]
+      },
+      "id": "nn00748099"
+    }
+  ]
+}

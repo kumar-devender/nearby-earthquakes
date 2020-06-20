@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1592076827000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson",
+    "title": "USGS All Earthquakes, Past Month",
+    "status": 200,
+    "api": "1.9.1",
+    "count": 20251
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "28 km SSE of Mina, Nevada",
+        "time": 1592076530620,
+        "updated": 1592076743673,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748102",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748102.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 10,
+        "net": "nn",
+        "code": "00748102",
+        "ids": ",nn00748102,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 11,
+        "dmin": 0.058,
+        "rms": 0.06,
+        "gap": 114.57,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 0.8 - 28 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.931,
+          38.1755,
+          12.3
+        ]
+      },
+      "id": "nn00748102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.99,
+        "place": "8 km E of P?hala, Hawaii",
+        "time": 1592075944180,
+        "updated": 1592076150610,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv71555712",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv71555712.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 61,
+        "net": "hv",
+        "code": "71555712",
+        "ids": ",hv71555712,",
+        "sources": ",hv,",
+        "types": ",origin,phase-data,",
+        "nst": 29,
+        "dmin": 0.03354,
+        "rms": 0.12,
+        "gap": 170,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 2.0 - 8 km E of P?hala, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.3934937,
+          19.2040005,
+          31.5
+        ]
+      },
+      "id": "hv71555712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "41 km ESE of Mina, Nevada",
+        "time": 1592075933100,
+        "updated": 1592076607327,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748099",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748099.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00748099",
+        "ids": ",nn00748099,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 19,
+        "dmin": 0.051,
+        "rms": 0.15,
+        "gap": 60.5,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 41 km ESE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6852,
+          38.2305,
+          3.2
+        ]
+      },
+      "id": "nn00748099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "36 km SE of Mina, Nevada",
+        "time": 1592075353300,
+        "updated": 1592075563259,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748095",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748095.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 22,
+        "net": "nn",
+        "code": "00748095",
+        "ids": ",nn00748095,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 12,
+        "dmin": 0.052,
+        "rms": 0.07,
+        "gap": 151.86,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.2 - 36 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.78,
+          38.1837,
+          18.5
+        ]
+      },
+      "id": "nn00748095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.1,
+        "place": "29 km S of Mina, Nevada",
+        "time": 1592075301270,
+        "updated": 1592075503830,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748094",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748094.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 19,
+        "net": "nn",
+        "code": "00748094",
+        "ids": ",nn00748094,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 11,
+        "dmin": 0.059,
+        "rms": 0.17,
+        "gap": 135.58,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.1 - 29 km S of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0708,
+          38.128,
+          1.9
+        ]
+      },
+      "id": "nn00748094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.95,
+        "place": "18km S of Trona, CA",
+        "time": 1592074949150,
+        "updated": 1592075181445,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39478448",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39478448.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 58,
+        "net": "ci",
+        "code": "39478448",
+        "ids": ",ci39478448,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 26,
+        "dmin": 0.08438,
+        "rms": 0.2,
+        "gap": 79,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.0 - 18km S of Trona, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4023333,
+          35.6036667,
+          8.36
+        ]
+      },
+      "id": "ci39478448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.2,
+        "place": "3 km SE of Topaz Lake, Nevada",
+        "time": 1592074401650,
+        "updated": 1592074843458,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748089",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748089.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 22,
+        "net": "nn",
+        "code": "00748089",
+        "ids": ",nn00748089,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 9,
+        "dmin": 0.328,
+        "rms": 0.08,
+        "gap": 156.74,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.2 - 3 km SE of Topaz Lake, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5137,
+          38.675,
+          6.8
+        ]
+      },
+      "id": "nn00748089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "29 km SSE of Mina, Nevada",
+        "time": 1592073932890,
+        "updated": 1592074492923,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748086",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748086.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00748086",
+        "ids": ",nn00748086,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 12,
+        "dmin": 0.045,
+        "rms": 0.08,
+        "gap": 107.79,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 29 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.019,
+          38.1303,
+          3.1
+        ]
+      },
+      "id": "nn00748086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "33 km SE of Mina, Nevada",
+        "time": 1592073890670,
+        "updated": 1592074485239,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748085",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748085.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00748085",
+        "ids": ",nn00748085,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 12,
+        "dmin": 0.021,
+        "rms": 0.11,
+        "gap": 64.98,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 33 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8348,
+          38.1782,
+          6.1
+        ]
+      },
+      "id": "nn00748085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.45,
+        "place": "13km ENE of Mammoth Lakes, CA",
+        "time": 1592073559110,
+        "updated": 1592075830570,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73408476",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73408476.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 32,
+        "net": "nc",
+        "code": "73408476",
+        "ids": ",nc73408476,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 13,
+        "dmin": 0.02385,
+        "rms": 0.04,
+        "gap": 133,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 1.5 - 13km ENE of Mammoth Lakes, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8368301,
+          37.6618347,
+          1.63
+        ]
+      },
+      "id": "nc73408476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1,
+        "place": "2 km S of Petersville, Alaska",
+        "time": 1592073422309,
+        "updated": 1592073900632,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0207l6m01s",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0207l6m01s.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 15,
+        "net": "ak",
+        "code": "0207l6m01s",
+        "ids": ",ak0207l6m01s,",
+        "sources": ",ak,",
+        "types": ",origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.61,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.0 - 2 km S of Petersville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.7714,
+          62.4775,
+          56.1
+        ]
+      },
+      "id": "ak0207l6m01s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.01,
+        "place": "9km SW of Searles Valley, CA",
+        "time": 1592073336420,
+        "updated": 1592073548604,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39478440",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39478440.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 16,
+        "net": "ci",
+        "code": "39478440",
+        "ids": ",ci39478440,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 8,
+        "dmin": 0.1385,
+        "rms": 0.15,
+        "gap": 173,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.0 - 9km SW of Searles Valley, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4801667,
+          35.7151667,
+          1.39
+        ]
+      },
+      "id": "ci39478440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.8,
+        "place": "35 km SE of Mina, Nevada",
+        "time": 1592073294050,
+        "updated": 1592073702543,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748082",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748082.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 10,
+        "net": "nn",
+        "code": "00748082",
+        "ids": ",nn00748082,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 9,
+        "dmin": 0.058,
+        "rms": 0.07,
+        "gap": 105.46,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 0.8 - 35 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7747,
+          38.205,
+          1
+        ]
+      },
+      "id": "nn00748082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.46,
+        "place": "6km NE of Mexicali, B.C., MX",
+        "time": 1592073244900,
+        "updated": 1592073471168,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39478424",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39478424.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 33,
+        "net": "ci",
+        "code": "39478424",
+        "ids": ",ci39478424,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 13,
+        "dmin": 0.06526,
+        "rms": 0.24,
+        "gap": 102,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 6km NE of Mexicali, B.C., MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4155,
+          32.6901667,
+          16.56
+        ]
+      },
+      "id": "ci39478424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.46,
+        "place": "6km NE of Mexicali, B.C., MX",
+        "time": 1592073244900,
+        "updated": 1592073471168,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39478424",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39478424.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 33,
+        "net": "ci",
+        "code": "39478424",
+        "ids": ",ci39478424,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 13,
+        "dmin": 0.06526,
+        "rms": 0.24,
+        "gap": 102,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 6km NE of Mexicali, B.C., MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4155,
+          32.6901667,
+          16.56
+        ]
+      },
+      "id": "ci39478424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.46,
+        "place": "6km NE of Mexicali, B.C., MX",
+        "time": 1592073244900,
+        "updated": 1592073471168,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39478424",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39478424.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 33,
+        "net": "ci",
+        "code": "39478424",
+        "ids": ",ci39478424,",
+        "sources": ",ci,",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "nst": 13,
+        "dmin": 0.06526,
+        "rms": 0.24,
+        "gap": 102,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 6km NE of Mexicali, B.C., MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4155,
+          32.6901667,
+          16.56
+        ]
+      },
+      "id": "ci39478424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.5,
+        "place": "32 km SE of Mina, Nevada",
+        "time": 1592073200330,
+        "updated": 1592073465493,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00748079",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00748079.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 35,
+        "net": "nn",
+        "code": "00748079",
+        "ids": ",nn00748079,",
+        "sources": ",nn,",
+        "types": ",origin,phase-data,",
+        "nst": 19,
+        "dmin": 0.015,
+        "rms": 0.09,
+        "gap": 81.16,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 1.5 - 32 km SE of Mina, Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.843,
+          38.184,
+          8.2
+        ]
+      },
+      "id": "nn00748079"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1592076827000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson",
+    "title": "USGS All Earthquakes, Past Month",
+    "status": 200,
+    "api": "1.9.1",
+    "count": 20251
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M 0.8 - 28 km SSE of Mina, Nevada"
+      },
+      "geometry": {
+      },
+      "id": "nn00748102"
+    }
+  ]
+}
