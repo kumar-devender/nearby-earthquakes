@@ -21,9 +21,8 @@ public class FeedEarthquakesRepository implements EarthquakesRepository {
     private final ObjectMapper mapper;
 
     public Optional<AllEarthquakeDTO> getAllMonthEarthquakes() {
-        try {
-            log.info("Getting Earthquakes summary from api");
-            InputStream inputStream = getEarthquakes();
+        log.info("Getting Earthquakes summary from api");
+        try (InputStream inputStream = getEarthquakes()) {
             return of(parse(inputStream));
         } catch (IOException e) {
             log.warn("Failed to get Earthquakes [{}]", e.getCause(), e);
@@ -37,6 +36,10 @@ public class FeedEarthquakesRepository implements EarthquakesRepository {
 
     private InputStream getEarthquakes() throws IOException {
         URL url = new URL(USGS_URL);
+        /**
+         *Different instance of Connection may use same underlying socket connection if we do not call conn.disconnect.
+         * In this case The Socket is reused(cached)
+         */
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
         conn.setRequestProperty("Accept", "application/json");
