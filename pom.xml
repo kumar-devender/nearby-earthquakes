@@ -15,7 +15,7 @@
         <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
         <hamcrest.version>2.2</hamcrest.version>
         <lombok-version>1.18.12</lombok-version>
-        <jackson-version>2.10.4</jackson-version>
+        <jackson-version>2.12.1</jackson-version>
         <logback-verion>1.0.13</logback-verion>
         <slfj-verion>1.7.30</slfj-verion>
         <gmaven-plugin.version>1.4</gmaven-plugin.version>
