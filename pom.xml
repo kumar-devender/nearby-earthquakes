@@ -16,7 +16,7 @@
         <hamcrest.version>2.2</hamcrest.version>
         <lombok-version>1.18.12</lombok-version>
         <jackson-version>2.10.4</jackson-version>
-        <logback-verion>1.0.13</logback-verion>
+        <logback-verion>1.2.0</logback-verion>
         <slfj-verion>1.7.30</slfj-verion>
         <gmaven-plugin.version>1.4</gmaven-plugin.version>
         <groovy.version>2.4.12</groovy.version>
